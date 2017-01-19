@@ -1,4 +1,4 @@
-package com.ovishnu.algos.topcoder.practice;
+package com.algos.practice.topcoder.practice;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;
@@ -7,7 +7,7 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.HashMap;
 
-import com.ovishnu.algos.utils.ArrayUtils;
+import com.algos.practice.utils.ArrayUtils;
 
 /**
  * Problem Statement

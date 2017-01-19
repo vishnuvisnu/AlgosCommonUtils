@@ -1,4 +1,4 @@
-package com.ovishnu.algos.leet;
+package com.algos.practice.leet;
 
 public class Islands {
     public int numIslands(char[][] grid) {

@@ -1,4 +1,4 @@
-package com.ovishnu.algos.utils;
+package com.algos.practice.utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;

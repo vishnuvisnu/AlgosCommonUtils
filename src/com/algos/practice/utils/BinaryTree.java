@@ -1,4 +1,4 @@
-package com.ovishnu.algos.utils;
+package com.algos.practice.utils;
 
 public class BinaryTree {
 	// Root node pointer. Will be null for an empty tree.

@@ -1,4 +1,4 @@
-package com.ovishnu.algos.leet;
+package com.algos.practice.leet;
 
 import java.util.ArrayList;
 import java.util.HashMap;

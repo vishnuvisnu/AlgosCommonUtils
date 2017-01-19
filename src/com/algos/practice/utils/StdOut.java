@@ -1,4 +1,4 @@
-package com.ovishnu.algos.utils;
+package com.algos.practice.utils;
 
 /******************************************************************************
  *  Compilation:  javac StdOut.java

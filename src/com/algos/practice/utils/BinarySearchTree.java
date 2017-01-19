@@ -1,4 +1,4 @@
-package com.ovishnu.algos.utils;
+package com.algos.practice.utils;
 
 import com.google.common.base.Preconditions;
 

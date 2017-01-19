@@ -1,6 +1,6 @@
-package com.ovishnu.algos.dp;
+package com.algos.practice.dp;
 
-import com.ovishnu.algos.utils.ArrayUtils;
+import com.algos.practice.utils.ArrayUtils;
 
 public class SubsetSum {
 

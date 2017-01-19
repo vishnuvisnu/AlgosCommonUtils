@@ -1,4 +1,4 @@
-package com.ovishnu.algos.dp;
+package com.algos.practice.dp;
 /**
  * Problem Statement
     	

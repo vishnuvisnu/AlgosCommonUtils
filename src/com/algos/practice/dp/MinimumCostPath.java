@@ -1,4 +1,4 @@
-package com.ovishnu.alogs.dp;
+package com.algos.practice.dp;
 
 import com.google.common.base.Preconditions;
 

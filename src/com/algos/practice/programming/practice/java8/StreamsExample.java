@@ -1,4 +1,4 @@
-package com.ovishnu.programming.practice.java8;
+package com.algos.practice.programming.practice.java8;
 
 import java.util.Arrays;
 import java.util.List;
